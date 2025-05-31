@@ -1,3 +1,10 @@
+All credits go to VonDoogles, the mod creator:
+https://github.com/VonDoogles/TLD-QualityOfLife
+
+Forked and rereleased to fix an error.
+
+---
+
 # Quality Of Life
 A mod for The Long Dark that makes several changes to the UI in hopes to make the game more consistent and easier to control.  Also contains some options to make the game more difficult.
 
